@@ -1,2 +1,4 @@
-# Stride - Bootstrap 5 HTML template
-A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
+# Al - Centaur Official Website
+### Alcentaur Printing Machinery Trading LLC 
+
+Leveraging over 27 years of experience in printing engineering, catering to the flexo industry across the Middle East and Africa
